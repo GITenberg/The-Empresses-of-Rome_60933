@@ -1,0 +1,38 @@
+_repo: The-Empresses-of-Rome_60933
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCabe, Joseph
+    aliases:
+    - McCabe, Antony
+    - Antony, Father
+    - Macabe, Joseph
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '521'
+    url: http://www.gutenberg.org/2009/agents/521
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_McCabe
+description: ''
+gutenberg_issued: '2019-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60933'
+  lccn: '12006031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Empresses -- Rome -- Biography'
+- !lcc 'DG'
+- !lcsh 'Women -- Rome -- Biography'
+- GITenberg
+tableOfContents: The making of an Empress -- The end of the golden age -- The wives
+  of Caligula -- Valeria Messalina -- The mother of Nero -- The wives of Nero -- The
+  Empresses of the transition -- Plotina -- Sabina, the wife of Hadrian -- The wives
+  of the Stoics -- The wives of the Sybarites -- Julia Domna -- In the days of Elagabalus
+  -- Another Syrian Empress -- Zenobia and Victoria -- The wife and daughter of Diocletian
+  -- The first Christian Empresses -- The wives of Constantius and Julian -- Justina
+  -- The romance of Eudoxia and Eudocia -- The last Empresses of the West.
+title: The Empresses of Rome
+url: http://www.gutenberg.org/ebooks/60933
